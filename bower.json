@@ -5,7 +5,7 @@
         "Florian Roy"
     ],
     "description": "Pikaday decorator with polymer",
-    "main": "element/*",
+    "main": "pikaday-decorator.html",
     "ignore": [
         "**/.*",
         "node_modules",
